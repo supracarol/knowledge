@@ -1,6 +1,6 @@
 # Basic reference for powershell script
 # Running:
-#     powershell.exe -ExecutionPolicy bybpass -file "C:\path\to\powershell-reference-script.ps1"
+#     powershell.exe -ExecutionPolicy bypass -file "C:\path\to\powershell-reference-script.ps1"
 
 # Emulate 'set -e'
 Set-StrictMode -Version latest
